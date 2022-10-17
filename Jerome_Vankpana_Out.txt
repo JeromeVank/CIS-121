@@ -1,0 +1,4 @@
+Apples
+Mean :6.388888888888889
+Median: 6.5
+Mode: 5,5

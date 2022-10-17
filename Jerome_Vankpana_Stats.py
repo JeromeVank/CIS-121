@@ -13,3 +13,7 @@ def mean(numbers):
 def median(numbers):
     result = statistics.median(numbers)
     return result
+
+def mode(numbers):
+    result = statistics.mode(numbers)
+    return result
